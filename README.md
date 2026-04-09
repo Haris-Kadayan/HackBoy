@@ -1,6 +1,6 @@
 Hack Boy
 -
-Hello! Hack Boy is a hackpad (macropad) designed to look like the original Game Boy. It has 4 keys, a rotary encoder, an OLED display, and RGB underglow. It is based on QMK firmware and is created for the Hack Club Stasis program.
+Hack Boy is a hackpad (macropad) designed to look like the original Game Boy. It has 4 keys, a rotary encoder, an OLED display, and RGB underglow. It is based on QMK firmware and is created for the Hack Club Stasis program.
 
 I made this because I always wanted a macropad for my personal use. However, I did not want it to look like a generic box, so I decided to go with the Game Boy design for it to stand out. It was also a good chance for me to practice my KiCad, Fusion 360, and C skills.
 
