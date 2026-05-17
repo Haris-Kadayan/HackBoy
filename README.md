@@ -1,7 +1,7 @@
+<img width="640" height="480" alt="HACK BOY Cover 43" src="https://github.com/user-attachments/assets/341a34df-61fc-4dc9-9838-43f5cdb8035b" />
+
 Hack Boy
 -
-
-<img width="640" height="480" alt="HACK BOY Cover 43" src="https://github.com/user-attachments/assets/341a34df-61fc-4dc9-9838-43f5cdb8035b" />
 
 Hack Boy is a hackpad (macropad) designed to look like the original Game Boy. It has 4 keys, a rotary encoder, an OLED display, and RGB underglow. It is based on QMK firmware and is created for the Hack Club Stasis program.
 
