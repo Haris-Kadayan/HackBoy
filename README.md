@@ -46,6 +46,7 @@ WS2812_DRIVER = vendor
 
 BOM:
 -
+(JLCPCB has a 2 dollar coupon and AliExpress has a 3 dollar coupon, which is why the funding amount is 5 dollars lower than the BOM total):
 (not listed in Stasis BOM because I already have these):
 
 * 4x M3x5x5.5 Heat Set Inserts
