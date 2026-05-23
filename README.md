@@ -46,16 +46,9 @@ WS2812_DRIVER = vendor
 
 BOM:
 -
-* 4x DSA 20PCS Black PBT 1U Keycaps
-* 6x SK6812-E MINI-E LEDs
-* 1x EC11 Rotary Encoder with Push Button
-* 10x Cherry MX Blue Switches
-* 1x 0.91" 128x32 OLED Display
-* 1x Seeed Studio XIAO RP2040
-
 (not listed in Stasis BOM because I already have these):
 
 * 4x M3x5x5.5 Heat Set Inserts
 * 4x M3 Screws
 
-
+<img width="1970" height="1796" alt="image" src="https://github.com/user-attachments/assets/a5d22404-16f1-4cd8-8950-c260fd18ea36" />
